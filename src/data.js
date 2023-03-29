@@ -13,6 +13,15 @@ function chillHop() {
             active: true,
         },
         {
+            name:"Fox Radio 910",
+            artist: "Sports News",
+            cover: "https://us0-cdn.onlineradiobox.com/img/l/0/16280.v3.png",
+            id: uuidv4(),
+            color: ["#F24933", "#F9B437"],
+            audio: "https://crystalout.surfernetwork.com:8001/WFJX_MP3",
+            active: true,
+        },        
+        {
             name:"ESPN New Orleans",
             artist: "Sports News",
             cover: "https://us0-cdn.onlineradiobox.com/img/l/1/4381.v4.png",
@@ -23,7 +32,7 @@ function chillHop() {
         },
         {
             name:"77 WABC Radio",
-            artist: "news talk",
+            artist: "Sports News",
             cover: "https://us0-cdn.onlineradiobox.com/img/l/5/77465.v3.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
@@ -32,7 +41,7 @@ function chillHop() {
         },
         {
             name:"790 KABC-AM",
-            artist: "news talk",
+            artist: "Sports News",
             cover: "https://apksshare.com/wp-content/uploads/2021/07/US-Breaking-News-Today-Top-Stories-Local-News-App-APK-MOD-Download-2.3.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
@@ -41,13 +50,22 @@ function chillHop() {
         },
         {
             name:"WHUS Sports",
-            artist: "news talk",
+            artist: "Sports News",
             cover: "https://apksshare.com/wp-content/uploads/2021/07/US-Breaking-News-Today-Top-Stories-Local-News-App-APK-MOD-Download-2.3.png",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
             audio: "https://14833.live.streamtheworld.com/WMALFM_SC?dist=onlineradiobox",
             active: false,
         },
+        {
+            name:"KDUS AM 1060",
+            artist: "Sports News",
+            cover: "https://us0-cdn.onlineradiobox.com/img/l/7/28187.v3.png",
+            id: uuidv4(),
+            color: ["#F24933", "#F9B437"],
+            audio: "https://17853.live.streamtheworld.com/KDUSAM_SC?dist=onlineradiobox",
+            active: true,
+        },        
         {
             name:"Eagle 107",
             artist: "Sports News",
@@ -84,6 +102,15 @@ function chillHop() {
             audio: "http://hemnos.cdnstream.com/1417_64",
             active: false,
         },
+        {
+            name:"Sports Radio 93.1",
+            artist: "Sports News",
+            cover: "https://us0-cdn.onlineradiobox.com/img/l/8/110968.v1.png",
+            id: uuidv4(),
+            color: ["#FDE1A9", "#A46874"],
+            audio: "https://s48.myradiostream.com/:11304/listen.mp3?nocache=1641475480",
+            active: false,
+        },        
     ];
 }
 
