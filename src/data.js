@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"94.9 News Now",
+            name:"The Ticket Sports Network",
             artist: "news talk culture entertainment",
-            cover: "https://apksshare.com/wp-content/uploads/2021/07/US-Breaking-News-Today-Top-Stories-Local-News-App-APK-MOD-Download-2.3.png",
+            cover: "https://us0-cdn.onlineradiobox.com/img/l/2/29292.v8.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://crystalout.surfernetwork.com:8001/WJJF-FM_MP3",
+            audio: "http://72.215.141.182:8000/stream/2/",
             active: true,
         },
         {
