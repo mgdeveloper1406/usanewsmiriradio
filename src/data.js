@@ -56,6 +56,7 @@ function chillHop() {
             color: ["#F24933", "#F9B437"],
             audio: "https://17853.live.streamtheworld.com/KDUSAM_SC?dist=onlineradiobox",
             active: true,
+        },            
         {
             name:"ESPN Fantasy Sports 24/7",
             artist: "Sports News",
