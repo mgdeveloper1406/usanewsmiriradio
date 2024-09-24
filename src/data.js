@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://us0-cdn.onlineradiobox.com/img/l/2/29292.v8.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://72.215.141.182:8000/stream/2/",
+            audio: "https://n10.radiojar.com/6pz06e8nv4zuv?rj-ttl=5&rj-tok=AAABkiPSINcAnsLzLn751MKDIA",
             active: true,
         },
         {
