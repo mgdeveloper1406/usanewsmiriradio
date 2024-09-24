@@ -5,7 +5,7 @@ function chillHop() {
 
         {
             name:"The Ticket Sports Network",
-            artist: "Sports News",
+            artist: "Sports, Music, News",
             cover: "https://us0-cdn.onlineradiobox.com/img/l/2/29292.v8.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
